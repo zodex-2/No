@@ -1,128 +1,16 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%2261576803557752%22%3A%22uLqKn8G4%22%2C%2261576878112635%22%3A%22WceLgZHO%22%2C%2261576322563249%22%3A%22pvNZZhml%22%2C%2261577007885877%22%3A%22QBYSQHh3%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.880Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "datr",
-        "value": "eDhEaD_-nmlqYEPDqzIZtaQY",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "sb",
-        "value": "eDhEaAWh7DSVoVkfrIIl9G5j",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "vpd",
-        "value": "v1%3B678x360x3",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "ps_l",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "ps_n",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "locale",
-        "value": "en_US",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "m_pixel_ratio",
-        "value": "3",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "wd",
-        "value": "360x760",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "c_user",
-        "value": "61577007885877",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.881Z",
-        "lastAccessed": "2025-06-14T17:16:39.881Z"
-    },
-    {
-        "key": "xs",
-        "value": "48%3Ad9_i2kAgGUv4HA%3A2%3A1749921341%3A-1%3A-1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.882Z",
-        "lastAccessed": "2025-06-14T17:16:39.882Z"
-    },
-    {
-        "key": "fr",
-        "value": "0gO4ltwHkmbRYG9Tz.AWdcgHrY0ZtGiIyRVCybRinJ-mqnmbHi7R5awu0NWzS1x3M76CA.BoRDh4..AAA.0.0.BoTa4-.AWe7iEEyIK_66mgR7N3iLaBMq5s",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.882Z",
-        "lastAccessed": "2025-06-14T17:16:39.882Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "100429455%3BT%3A29165355",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.882Z",
-        "lastAccessed": "2025-06-14T17:16:39.882Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2844%3Btimestamp%3A1749921343",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-06-14T17:16:39.882Z",
-        "lastAccessed": "2025-06-14T17:16:39.882Z"
-    }
+# These are supported funding model platforms
+
+github: [ntkhang03]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom: [
+  "https://www.paypal.com/paypalme/ntkhang03",
+  "https://www.buymeacoffee.com/ntkhang03",
 ]
